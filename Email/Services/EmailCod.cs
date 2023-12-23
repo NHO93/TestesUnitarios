@@ -3,28 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Email.Services
+namespace Email.Services // Namespace Email.Services
 {
-    public class EmailCod
+    public class EmailCod // Classe EmailCod
     {
-        public void EmailSenhaValidos(string email, string senha)
+        public bool EmailSenhaValidos(string email, string senha) // Método que verifica se o email e a senha são válidos
         {
-            if (email.Contains("@") && email.Contains(".com") && senha.Length >= 6)
+            if (email.Contains("@") && email.Contains(".com") && senha.Length >= 6) // Verifica se o email e a senha são válidos
             {
-                Console.WriteLine("Email e senha válidos");
+               return true; // Retorna true se o email e a senha são válidos
             }
             else
             {
-                Console.WriteLine("Email e senha inválidos");
+                throw new Exception("Email ou senha inválidos"); // Retorna uma exceção se o email e a senha não são válidos
             }
         }
-
-        public void EmailSenhaInvalidos() => EmailSenhaValidos("anajoaquinaemail.com", "123456");
-
-        public void EmailSenhaInvalidos2() => EmailSenhaValidos("anajoaquina@email.com", "12356");
-
-        public void EmailSenhaInvalidos3() => EmailSenhaValidos("anajoaqu ina@email.com", "12 356");
-
-        public void EmailSenhaInvalidos4() => EmailSenhaValidos("", "");
     }
 }

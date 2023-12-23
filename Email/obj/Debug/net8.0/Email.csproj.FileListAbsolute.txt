@@ -1,0 +1,14 @@
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\bin\Debug\net8.0\Email.exe
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\bin\Debug\net8.0\Email.deps.json
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\bin\Debug\net8.0\Email.runtimeconfig.json
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\bin\Debug\net8.0\Email.dll
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\bin\Debug\net8.0\Email.pdb
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.AssemblyInfoInputs.cache
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.AssemblyInfo.cs
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.csproj.CoreCompileInputs.cache
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.dll
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\refint\Email.dll
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.pdb
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.genruntimeconfig.cache
+c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\ref\Email.dll

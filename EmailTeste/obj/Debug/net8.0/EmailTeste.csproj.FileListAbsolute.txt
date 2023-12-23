@@ -103,3 +103,4 @@ c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\Testes
 c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\EmailTeste\obj\Debug\net8.0\EmailTeste.pdb
 c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\EmailTeste\obj\Debug\net8.0\EmailTeste.genruntimeconfig.cache
 c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\EmailTeste\obj\Debug\net8.0\ref\EmailTeste.dll
+C:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\EmailTeste\obj\Debug\net8.0\EmailTeste.sourcelink.json

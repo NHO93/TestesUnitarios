@@ -1,6 +1,11 @@
 using Email.Services;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Xunit;
 
-namespace EmailTeste;
+namespace Email.Services;
 
 public class EmailTeste
 {
@@ -69,11 +74,11 @@ public class EmailTeste
         }
 }
 
-internal class EmailSenha
+internal class EmailSenha // Classe EmailSenha
 {
-    public EmailSenha()
+    public EmailSenha() // Construtor
     {
     }
 
-    internal IEnumerable<char> EmailSenha(string email, string senha) => throw new NotImplementedException();
+    internal IEnumerable<char> EmailSenha(string email, string senha) => throw new NotImplementedException(); // Método não implementado
 }

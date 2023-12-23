@@ -12,3 +12,4 @@ c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\Testes
 c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.pdb
 c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.genruntimeconfig.cache
 c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\ref\Email.dll
+C:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\Email\obj\Debug\net8.0\Email.sourcelink.json

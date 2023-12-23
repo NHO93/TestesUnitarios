@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmailTeste
-build_property.ProjectDir = C:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\EmailTeste\
+build_property.ProjectDir = c:\Users\Edenilson Fabiano\OneDrive - Instituto Federal Baiano\Documentos\TestesUnitarios\EmailTeste\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
